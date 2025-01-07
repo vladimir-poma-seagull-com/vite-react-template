@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       TOP MOVIES
+      {/* Movies component */}
       <Movies />
     </>
   );
